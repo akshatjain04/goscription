@@ -1,4 +1,5 @@
 ID,FirstName,LastName,Email,PhoneNumber,DateOfBirth,Address
+0,,,,,,
 1,John,Doe,johndoe@gmail.com,1234567890,1990-01-01,123 Main St
 2,Jane,Doe,janedoe@gmail.com,0987654321,1992-02-02,456 Maple Ave
 3,Jim,Smith,jimsmith@gmail.com,1122334455,1988-03-03,789 Oak Dr
